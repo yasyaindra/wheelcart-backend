@@ -93,10 +93,15 @@
     <footer class="border-top bg-light p-5" id="footer">
       <div class="container">
         <div class="row justify-content-between">
-          <div class="col">
+          <div class="col-sm-2 col-lg">
             <p>
             <a href="https://hello.yasya.tech" target="_blank">
               Yasya Indra Technology. 2018
+            </a>
+            </p>
+            <p>
+            <a class="btn btn-success" href="https://wa.me/+6281285849052" target="_blank">
+              Terdapat error? kendala? Hubungi saya, suapaya saya segera bisa membantu!
             </a>
             </p>
           </div>
